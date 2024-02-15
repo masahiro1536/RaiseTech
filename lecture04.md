@@ -1,22 +1,22 @@
-# **第4回課題報告**
+# 第4回課題報告
 
-## **1.VPC新規作成**
+## 1.VPC新規作成
 ![VPC](images/lecture04/4-1.png)
 
-## **2.EC2構築**
+## 2.EC2構築
 ![EC2](images/lecture04/4-2.png)
 ![EC2インバウンド](images/lecture04/4-3.png)
 ![EC2アウトバウンド](images/lecture04/4-4.png)
 
-## **3.RDS構築**
+## 3.RDS構築
 ![RDS](images/lecture04/4-5.png)
 ![RDS](images/lecture04/4-6.png)
 ![RDS](images/lecture04/4-7.png)
 
-## 4.EC2からRDSへ接続**
+## 4.EC2からRDSへ接続
 ![EC2->RDS](images/lecture04/4-8.png)
 
-## 5.感想**
+## 5.感想
 環境構築というものを初めて行いました。講座の中でVPC、EC2，RDSの作り方解説があったのですぐに終わるかなと思って進めましたが、実際にはかなりの時間がかかりました。
 間違えて構築してしまい、後から修正しようとしたら変更できず、削除しようとしたら何かと紐ずいていて修正できず・・・といった感じでした。最後接続できた時は何かほっと
 したような気持になりました。
