@@ -10,7 +10,7 @@
 ![Nginx](images/lecture05/5-3.png)
 
 ## 4.NginxとUnicornを組み合わせてのRailsアプリケーション動作確認
-![Nginx＋Unicorn](images/lecture05/5-4.png)
+![Nginx＋Unicorn](images/lecture05/5-4-2.png)
 
 ## 5.Unicornの設定
 ![Unicorn config](images/lecture05/5-5.png)
